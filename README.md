@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will learn more of the barebones of HTML through a recipe project! This will help me understand HTML more, as well as the process of working within Visual Studio, GitHub, and Git!
